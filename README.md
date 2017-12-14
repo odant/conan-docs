@@ -1,1 +1,1 @@
-# conan-docs
+# Guidelines for create Conan packages
